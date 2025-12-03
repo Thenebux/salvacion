@@ -1,0 +1,6 @@
+"Matematica" "Roberto" "703" 3 [31m "Comunicacion" "Eraser" "901" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Fisica" "Luis" "120" 4 [33m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Matematica" "Roberto" "703" 3 [31m "Comunicacion" "Eraser" "901" 7 [34m "Comunicacion" "Eraser" "901" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Matematica" "Roberto" "703" 3 [31m "Comunicacion" "Eraser" "901" 7 [34m "Comunicacion" "Eraser" "901" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Comunicacion" "Eraser" "901" 7 [34m "Vacio" "" "" 0 [90m "Fisica" "Luis" "120" 4 [33m "Vacio" "" "" 0 [90m
+"Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Comunicacion" "Eraser" "901" 7 [34m "Vacio" "" "" 0 [90m "Fisica" "Luis" "120" 4 [33m "Vacio" "" "" 0 [90m
+"Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Fisica" "Luis" "120" 4 [33m "Vacio" "" "" 0 [90m

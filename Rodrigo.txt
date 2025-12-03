@@ -1,0 +1,6 @@
+"Comunicacion" "Javier" "500" 7 [34m "POO" "Kaleb" "634" 6 [36m "POO" "Kaleb" "634" 6 [36m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Comunicacion" "Javier" "500" 7 [34m "POO" "Kaleb" "634" 6 [36m "POO" "Kaleb" "634" 6 [36m "Comunicacion" "Javier" "500" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Comunicacion" "Javier" "500" 7 [34m "POO" "Kaleb" "634" 6 [36m "POO" "Kaleb" "634" 6 [36m "Comunicacion" "Javier" "500" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
+"Comunicacion" "Javier" "500" 7 [34m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Comunicacion" "Javier" "500" 7 [34m "Vacio" "" "" 0 [90m "Calculo" "Jair" "101" 3 [31m "Vacio" "" "" 0 [90m
+"Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Calculo" "Jair" "101" 3 [31m "Calculo" "Jair" "101" 3 [31m "Vacio" "" "" 0 [90m
+"Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m "Vacio" "" "" 0 [90m
